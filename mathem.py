@@ -26,3 +26,4 @@ mevalar = ['olma','anor','anjir','shaftoli',"o'rik","tarvuz","qovun","banan"]
 
 a_r = list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')),mevalar ))
 print(a_r)
+print("assolom")
